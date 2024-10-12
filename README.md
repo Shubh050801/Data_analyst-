@@ -54,6 +54,3 @@ Project Structure:
 4. Sales Insights: Extracting meaningful insights around sales patterns and customer behavior.
 5. Correlation Analysis: Investigating how different numerical features are related.
 6. Trend Analysis: Examining sales and gross income trends over time.
-
-
-This version adds more detail on each step of the process and provides a comprehensive overview of the project's scope. Let me know if you’d like any specific part expanded or adjusted!
