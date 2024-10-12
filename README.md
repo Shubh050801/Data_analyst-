@@ -1,7 +1,7 @@
 
 # Exploratory Data Analysis (EDA) on Supermarket Sales https://github.com/Shubh050801/Supermarket_Sales_EDA/blob/main/EDA%2023.pdf
 
-This project provides a thorough Exploratory Data Analysis (EDA) of a supermarket sales dataset (https://github.com/Shubh050801/Supermarket_Sales_EDA/blob/main/EDA%2023.pdf) to derive insights that can drive business decisions and strategies. The dataset captures key details of customer purchases across various branches, including demographics, product lines, and payment methods. This analysis seeks to understand customer behavior, sales trends, and performance metrics across different dimensions.
+This project provides a thorough Exploratory Data Analysis (EDA) of a supermarket sales dataset (https://github.com/Shubh050801/Supermarket_Sales_EDA/blob/main/supermarket_sales.csv) to derive insights that can drive business decisions and strategies. The dataset captures key details of customer purchases across various branches, including demographics, product lines, and payment methods. This analysis seeks to understand customer behavior, sales trends, and performance metrics across different dimensions.
 
  Key Features of the Project:
 - Data Cleaning and Preparation:
